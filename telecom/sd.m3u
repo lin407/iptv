@@ -119,7 +119,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
-#EXTINF:-1 ,农林卫视
+#EXTINF:-1 ,陕西农林卫视
 http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
@@ -139,7 +139,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="数字付费",CETV2
 http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
-#EXTINF:-1 ,山东文旅
+#EXTINF:-1 tvg-id="1432" tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="地方",山东文旅
 http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="地方",山东生活
 http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8
@@ -147,7 +147,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000055/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000054/index.m3u8
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 ,山东新闻
+#EXTINF:-1 tvg-id="1430" tvg-name="山东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" group-title="地方",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="地方",山东齐鲁
 http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
