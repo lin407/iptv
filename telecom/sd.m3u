@@ -157,6 +157,10 @@ http://150.138.8.143/00/SNM/CHANNEL00000058/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1 ,山东教育
 http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰卫视资讯台
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,海看生活
 http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
 #EXTINF:-1 ,海看教育
