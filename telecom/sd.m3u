@@ -151,7 +151,15 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="中数风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="中数风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",CCTV风云足球
 http://150.138.8.143:80/00/SNM/CHANNEL00000704/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合" group-title="地方",济南新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="凤凰",凤凰卫视中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="凤凰",凤凰卫视资讯台
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="凤凰",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
