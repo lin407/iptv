@@ -68,13 +68,13 @@ http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东",山东综艺
-https://livealone302.iqilu.com/iqilu/zypd.m3u8
+http://150.138.8.132/00/SNM/CHANNEL10000054/index.m3u8
 #EXTINF:-1 tvg-id="1432" tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="山东",山东文旅
-https://livealone302.iqilu.com/iqilu/yspd.m3u8
+http://150.138.8.132/00/SNM/CHANNEL10000056/index.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东",山东生活
-https://livealone302.iqilu.com/iqilu/shpd.m3u8
+http://150.138.8.132/00/SNM/CHANNEL10000055/index.m3u8
 #EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东",山东农科
-https://livealone302.iqilu.com/iqilu/nkpd.m3u8
+http://150.138.8.143:80/00/SNM/CHANNEL00000058/index.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="少儿",山东少儿
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -154,7 +154,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="" group-title="地方",山东教育
 http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",卡酷动画
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
+http://150.138.8.132:80/00/SNM/CHANNEL00000048/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
 http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
@@ -163,15 +163,3 @@ http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通
 http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" group-title="北京",北京影视
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
-#EXTINF:-1 tvg-id="57" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="北京",北京文艺
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
-#EXTINF:-1 tvg-id="57" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" group-title="北京",北京青年
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-#EXTINF:-1 tvg-id="57" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" group-title="北京",北京生活
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
-#EXTINF:-1 tvg-id="57" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png" group-title="北京",北京科教
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
-#EXTINF:-1 tvg-id="57" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" group-title="北京",北京财经
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
