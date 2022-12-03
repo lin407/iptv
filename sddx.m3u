@@ -147,6 +147,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台
@@ -155,6 +157,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" group-title="地方",山东教育卫视
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="少儿",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",卡酷动画
 http://150.138.8.143/00/SNM/CHANNEL00000048/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
@@ -169,8 +173,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1 group-title="少儿",动画
 http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 group-title="少儿",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
 http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 ,法治天地
@@ -191,8 +193,10 @@ http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,东方财经
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
-#EXTINF:-1 ,都市剧场
+#EXTINF:-1 ,SiTV都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 ,中国交通
 http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 ,影视
@@ -203,8 +207,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
 http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
 http://120.84.96.66:808/hls/32/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
@@ -221,11 +223,9 @@ http://epg.112114.xyz/douyu/8770422
 http://zzy789.xyz/bili.php?id=21570935
 #EXTINF:-1 ,M1905电影网
 http://mmitv.top/other/1905.php?id=1905
+#EXTINF:-1 group-title="数字",1905电影
+http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 #EXTINF:-1 ,清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 ,CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 ,SiTV都市剧场
-http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
