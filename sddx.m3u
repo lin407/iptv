@@ -57,6 +57,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 #EXTINF:-1 tvg-name="青岛青少旅游" group-title="青岛",QTV-6
 http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1 group-title="青岛",青岛城阳
+http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 #EXTINF:-1 group-title="青岛",莱西综合
 http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
