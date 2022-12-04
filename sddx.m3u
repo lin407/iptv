@@ -203,7 +203,7 @@ http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 group-title="上海",SITV都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
-#EXTINF:-1 group-title="上海",SITV欢笑剧场
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SITV欢笑剧场
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
@@ -223,7 +223,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 ,豆瓣高分电影TOP250
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 ,1905电影
+#EXTINF:-1 tvg-name="M1905-电影" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20190421/7c724a5329b44759bdcf445c73e77ad8.jpeg",1905电影
 http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 #EXTINF:-1 ,清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
