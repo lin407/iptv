@@ -199,8 +199,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002016/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002018/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",SITV生活时尚
 http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",SITV魅力足球
-http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 group-title="上海",SITV东方财经
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 group-title="上海",SITV都市剧场
@@ -219,8 +217,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,海看剧场
 http://150.138.8.143/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 ,海看大片
-http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
 #EXTINF:-1 ,BTV纪实科教
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 ,豆瓣高分电影TOP250
