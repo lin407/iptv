@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,114-新动漫（试看）
+http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1,115-优优宝贝（试看）
+http://150.138.8.143/00/SNM/CHANNEL00000641/index.m3u8
 #EXTINF:-1 group-title="B站直播",哆啦A梦新番
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/124103/live_7981914_1286387.m3u8
 #EXTINF:-1 ,济南教育
