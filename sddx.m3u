@@ -169,8 +169,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1 group-title="少儿",动画
 http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 group-title="少儿",蜡笔小新
-http://zzy789.xyz/bili.php?id=21570935
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
 http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1台
