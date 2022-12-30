@@ -167,6 +167,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",SITV动漫秀场
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" group-title="少儿",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="少儿",动画
 http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
