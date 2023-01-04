@@ -169,8 +169,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" group-title="少儿",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="少儿",动画
-http://150.138.8.143/00/SNM/CHANNEL00000402/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
 http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1台
@@ -245,3 +243,7 @@ http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="探索频道" tvg-logo="https://epg.112114.xyz/logo/探索频道.png",探索频道
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1 ,「轮播」动漫推荐
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 ,哆啦A梦
+http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
