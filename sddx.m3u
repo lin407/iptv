@@ -193,12 +193,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
-http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
-http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
-https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png",华数精彩影视
 http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1 ,豆瓣高分电影TOP250
@@ -217,6 +211,22 @@ http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 ,CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 ,「轮播」动漫推荐
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 ,哆啦A梦
+http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
+#EXTINF:-1 ,怀旧动画
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+#EXTINF:-1,8K测试
+http://150.138.8.143/00/SNM/CHANNEL00000664/index.m3u8
+#EXTINF:-1,4KAVS2
+http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
+http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
+http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
+https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png",寰宇新闻台
 http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="纬来戏剧台" tvg-logo="https://epg.112114.xyz/logo/纬来戏剧台.png",纬来戏剧台
@@ -243,9 +253,3 @@ http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="探索频道" tvg-logo="https://epg.112114.xyz/logo/探索频道.png",探索频道
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1 ,「轮播」动漫推荐
-http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 ,哆啦A梦
-http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
-#EXTINF:-1 ,怀旧动画
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
