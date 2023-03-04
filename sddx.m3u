@@ -215,5 +215,3 @@ http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1,4KAVS2
-http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
