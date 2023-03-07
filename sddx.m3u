@@ -173,10 +173,14 @@ http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
 http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
-#EXTINF:-1 group-title="少儿",哆啦A梦
-http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 #EXTINF:-1 group-title="少儿",怀旧动画
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+#EXTINF:-1 group-title="少儿",哆啦A梦
+http://zzy789.xyz/bili.php?id=482946
+#EXTINF:-1 group-title="少儿",哆啦A梦2
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 group-title="少儿",蜡笔小新
+http://zzy789.xyz/bili.php?id=10375360
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1台
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",中国教育2台
