@@ -77,10 +77,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育卫视
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
