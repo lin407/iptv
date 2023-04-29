@@ -169,8 +169,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通
 http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="少儿",IPTV少儿动画
-http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 group-title="少儿",怀旧动画
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 #EXTINF:-1 group-title="少儿",蜡笔小新
@@ -183,10 +181,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png",中国交通
 http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
-#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png",文物宝库
-http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视",SITV欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="影视",SITV都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="影视",华数精彩影视
@@ -201,6 +195,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000603/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000604/index.m3u8
 #EXTINF:-1 group-title="影视",豆瓣高分电影TOP250
 http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png",文物宝库
+http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
