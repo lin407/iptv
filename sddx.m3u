@@ -195,5 +195,3 @@ http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
 http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 ,清华大学
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
