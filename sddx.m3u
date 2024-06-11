@@ -51,12 +51,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 #EXTINF:-1 tvg-name="青岛教育" group-title="青岛",QTV-6
 http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
-#EXTINF:-1 group-title="青岛",青岛崂山
-http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
-#EXTINF:-1 group-title="青岛",青岛城阳
-http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
-#EXTINF:-1 group-title="青岛",莱西综合
-http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
 #EXTINF:-1 tvg-id="1430" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁
@@ -134,7 +128,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
