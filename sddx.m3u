@@ -50,8 +50,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
 #EXTINF:-1 tvg-name="青岛文化娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/QTV4.png" group-title="青岛",QTV-4
 http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
 #EXTINF:-1 tvg-name="青岛体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/QTV5.png" group-title="青岛",QTV-5
-http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-#EXTINF:-1 tvg-name="青岛教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/QTV6.png" group-title="青岛",QTV-6
 http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 #EXTINF:-1 tvg-id="1430" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
